@@ -3,3 +3,4 @@ Nota ingresada en GitHub, después deberá actualizar a Git en 'local'
 Nota de prueba para Git pull
 Nota dos prueba para Git pull remoto
 Modificando línea 5 en remoto
+Texto pruebas desde Escritorio
