@@ -1,3 +1,4 @@
 Nota de prueba
 Nota ingresada en GitHub, después deberá actualizar a Git en 'local'
 Nota de prueba para Git pull
+Nota dos prueba para Git pull remoto
